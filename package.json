@@ -1,0 +1,19 @@
+{
+  "name": "react-nodejs",
+  "version": "1.0.0",
+  "description": "Boilerplate for react and nodejs(express)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank8907/react-nodejs.git"
+  },
+  "author": "Shashank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shashank8907/react-nodejs/issues"
+  },
+  "homepage": "https://github.com/shashank8907/react-nodejs#readme"
+}
